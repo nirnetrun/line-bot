@@ -1,3 +1,3 @@
 <?php
-    echo "Mr.Botrun/line-bot";
+    echo "Mr.Botrun";
 ?>
